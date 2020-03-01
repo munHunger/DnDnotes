@@ -1,0 +1,42 @@
+position:
+  x: 650
+  y: 820
+boundingBox: 0 0 200 650
+title: "2020-02-15 season 2 ep3"
+content:
+  - type: text
+    position:
+      x: 0
+      y: 0
+    content: |-
+      Delia and others are waiting.
+        Priest(?) with white hair and grey robes
+      * Mother (Mina) sent to the west
+      * Son (Andrea) sent to the east
+
+      Snowstorm to the east (magic)
+      west => diffuse screaming
+
+      Andrea is back
+        east is safe
+
+      10 attackers from the west
+
+      Start casting Prayer of healing
+      explosives at the gates.
+
+      Moved to the west and found Mina.
+      -> Instant combat
+
+      prayer of healing aborted 
+      -> life transferrance 48 hp
+
+  - type: shape #Battle
+    position:
+      x: -40
+      y: -30
+    stroke: |-
+      0 0 20 20
+      0 20 20 0
+  - type: arrow
+    content: -100 10 -70 10 -50 -15

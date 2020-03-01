@@ -1,0 +1,68 @@
+position:
+  x: 0
+  y: 0
+boundingBox: -150 0 400 450
+title: "2020-01-25 season 2 ep1"
+content:
+  - type: text
+    position:
+      x: 0
+      y: 0
+    content: |-
+      Elias [Eli]
+        Burnt right face
+        Black robe
+        Staff with broken top that crackles/sparks
+        Meeting him through different ages.
+        Hella ugly beard
+  - type: text
+    position:
+      x: -150
+      y: 120
+    content: |-
+      We are in Anstad
+      There is a "little problem"
+      Minor tears between existences
+      Entity is opening tears/portals
+
+      Help wizard North-West coastline
+      Wizard keeping world defence down -> nightmare waking
+      Elias saw him many years ago
+
+      Nightmares sign of rifts.
+      "in somnis mea" spoken with stone to close the rifts
+  - type: text
+    position:
+      x: 250
+      y: 120
+    content: |-
+      Something plowed through the city.
+      Slums are abandoned.
+      Anstad is still populated.
+      Signs of battle
+      Center ring of statues are broken.
+
+      Workers are moving timber and stone.
+      Building walls around Anstad.
+      Bank looted followed by war.
+      Nightly attacks of undead.
+
+      Chanselor is the "apotheary" (Deliah)
+      Bodyguard is Mina, who is missing one arm.
+
+      "Shadows" can smell gold
+      Sick kid not just fever?
+
+      Gnome with glasses experiment with explosives
+  - type: text
+    position:
+      x: -80
+      y: 350
+    content: |-
+      Spider infestation to the West
+          there are also lumber and supplies.
+      Enchanter needs spiders.
+          * Hide of bigger spiders
+          * Heart of shimmering spiders
+          * Entire teleporting spider
+          * poison of shimmering spiders
